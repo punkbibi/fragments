@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rame_saxlit"
+        android:title="Home, sweet home!"
+        android:icon="@drawable/saxli"/>
+    <item
+        android:id="@+id/zari"
+        android:title="Notification"
+        android:icon="@drawable/zari"/>
+    <item
+        android:id="@+id/adamiani"
+        android:title="Profile"
+        android:icon="@drawable/adamiani"/>
+</menu>
